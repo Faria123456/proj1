@@ -1,0 +1,26 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+h1, h2, h3{
+    background-color: rgb(23, 182, 129);
+}
+body{
+    width: 80%;
+    margin: auto;
+    background: url(./bb.webp);
+}
+table, th,td {
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+form{
+    border: 30px;
+    border-radius: 15px;
+
+}
+table, th, td {
+    border: 2px solid black;
+}
